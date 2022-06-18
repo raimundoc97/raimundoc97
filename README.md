@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raimundoc97
 - 👀 I’m interested in Economics
-- 🌱 I’m currently learning Macroeconometrics 
-- 💞️ I’m looking to collaborate on Macro models
+- 🌱 I’m currently learning Microeconomics and Macroeconometrics 
 - 📫 How to reach me: rcontreras1@uc.cl
 
 <!---
