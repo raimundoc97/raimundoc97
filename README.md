@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raimundoc97
 - 👀 I’m interested in Economics
-- 🌱 I’m currently learning Microeconomics and Macroeconometrics 
+- 🌱 I’m currently working on contest theory applied to innovation economics
 - 📫 How to reach me: rcontreras1@uc.cl
 
 <!---
