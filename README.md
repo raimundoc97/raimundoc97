@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @raimundoc97
-- 👀 I’m interested in Economics
-- 🌱 I’m currently working on contest theory applied to innovation economics
-- 📫 How to reach me: rcontreras1@uc.cl
+- 👋 Hi, I’m Raimundo
+- 👀 I’m interested in Labor/IO Economics
+- 🌱 I’m currently working on the effects of technology en musical creativity
+- 📫 How to reach me: rcontreras1@alumni.uc.cl
 
 <!---
 raimundoc97/raimundoc97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
